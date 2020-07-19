@@ -74,9 +74,7 @@ body {
 
 img {
   max-width: 100%;
-     position: relative;
-    //width:  1000px;
-    //height: 500px;
+    position: relative;
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
